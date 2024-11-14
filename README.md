@@ -9,7 +9,7 @@ Jonathan D Cheng - Tools Lead/Design Lead
 
 
 ## Tools and materials
-###Tell us about what engines, libraries, frameworks, and or platforms you intend to use, and give us a tiny bit of detail about why your team chose those.
+__Tell us about what engines, libraries, frameworks, and or platforms you intend to use, and give us a tiny bit of detail about why your team chose those.__
 - We will be using Git for verision control, Unity+C#. Then we'll swap to Unreal Engine. We'll most likely be using Blender for 3D modeling and VS Studio + VS Code for scripting.
 
 Tell us programming languages (e.g. TypeScript) and data languages (e.g. JSON) you team expects to use and why you chose them. Presumably you’ll just be using the languages expected by your previously chosen engine/platform.
