@@ -1,8 +1,10 @@
 # CMPM-121-G33-Final
 
 ## Introducing the team
-Marvel McDowell - Design Lead
-Jonathan D Cheng - Tools Lead/Design Lead
+
+- Marvel McDowell - Design Lead
+- Jonathan D Cheng - Tools Lead/Design Lead
+- Brian Chung - Tools Lead
 
 
 
